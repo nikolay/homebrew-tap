@@ -6,7 +6,7 @@ cask 'keys' do
     name 'Keys'
     homepage 'https://keys.pub'
 
-    depends_on macos: '>= :sierra'
+    depends_on macos: '>= :mojave'
 
     app 'Keys.app'
 
